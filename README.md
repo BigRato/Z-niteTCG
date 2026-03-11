@@ -37,3 +37,5 @@ Projeto simulado de uma loja online para venda de cartas colecionáveis (TCG), d
 │ └── kanban_zenite_tcg.md
 │
 └── README.md # Documentação principal do projeto
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0f5fef6c-695e-4e66-9f47-1a5e50e06bcb" />
+
